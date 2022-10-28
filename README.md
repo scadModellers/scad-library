@@ -5,7 +5,7 @@ The visionary OpenSCAD library contains modules, functions and modules in the ar
 © Ludger Solbach
 
 # License
-GPL-3.0
+LGPL-2.1
 
 # Getting Started
 To use the Visionary OpenSCAD library, extract/copy the directory "visionary" to the libs folder of your OpenSCAD installation.
