@@ -1,5 +1,13 @@
-# Visionary OpenSCAD Library
-The visionary OpenSCAD library contains modules, functions and modules in the areas of astronomy, microscopy, photography and electronics.
+# Visionary 3D Model Library
+The Visionary library contains 3D models in the areas of astronomy, microscopy, photography and electronics.
+It uses scad-clj to generate OpenSCAD models which can then be exported to STL or other file formats supported by OpenSCAD.
+
+# Rationale
+OpenSCAD is a nice tool to programatically generate 3D models, e.g. for printing with 3D printers.
+But the SCAD language is a description language, not a real programming language.
+
+With [scad-clj](https://github.com/farrellm/scad-clj) models can be created in clojure and rendered as SCAD files to be displayed by OpenSCAD.
+
 
 # Copyright
 © Ludger Solbach
